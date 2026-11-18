@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="685" viewBox="0 0 1100 685" role="img" aria-label="Ghadi Algethami software engineering purple portfolio card">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111020"/><stop offset="1" stop-color="#171124"/></linearGradient>
+  <linearGradient id="head" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#241A3C"/><stop offset="1" stop-color="#1D1734"/></linearGradient>
+ </defs>
+ <rect width="1100" height="685" rx="24" fill="url(#bg)"/>
+ <rect x="20" y="20" width="1060" height="206" rx="22" fill="url(#head)"/>
+ <rect x="42" y="40" width="5" height="28" rx="2.5" fill="#B49BF4"/>
+ <text x="550" y="76" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3" fill="#CDBBFA">SOFTWARE ENGINEERING  ·  AI  ·  AUTOMATION</text>
+ <text x="550" y="134" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700" fill="#F6F1FF">Ghadi Algethami</text>
+ <text x="550" y="170" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#CEB9F7">✦  Building thoughtful solutions through code</text>
+ <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-size="15">
+  <rect x="230" y="187" width="194" height="26" rx="13" fill="#383049"/><text x="327" y="205" fill="#E5DEFA">GDG Automation</text>
+  <rect x="438" y="187" width="194" height="26" rx="13" fill="#383049"/><text x="535" y="205" fill="#E5DEFA">KAUST Academy</text>
+  <rect x="646" y="187" width="217" height="26" rx="13" fill="#383049"/><text x="754" y="205" fill="#E5DEFA">University of Jeddah</text>
+ </g>
+ <text x="1049" y="273" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="23" fill="#DABDFD">01 / About Me</text>
+ <text x="550" y="317" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#E5DDF1">Software Engineering student with hands-on experience in</text>
+ <text x="550" y="346" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#E5DDF1">application development, workflow automation &amp; data visualization.</text>
+ <rect x="24" y="374" width="515" height="137" rx="17" fill="#261C40"/>
+ <rect x="553" y="374" width="523" height="137" rx="17" fill="#261C40"/>
+ <circle cx="58" cy="408" r="16" fill="#4D356C"/><text x="58" y="415" font-size="21" text-anchor="middle" fill="#E5D0FF">✦</text>
+ <text x="87" y="411" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#F6F1FF">SANS</text>
+ <text x="54" y="456" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#CFC1E7">COOP Training · Jun–Aug 2026</text>
+ <text x="54" y="482" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#AFA0CB">Angular · Power Automate · Power BI</text>
+ <circle cx="587" cy="408" r="16" fill="#4D356C"/><text x="587" y="415" font-size="21" text-anchor="middle" fill="#E5D0FF">✧</text>
+ <text x="617" y="411" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#F6F1FF">Academic Highlight</text>
+ <text x="582" y="456" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#CFC1E7">Software Testing &amp; Verification</text>
+ <text x="582" y="482" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#AFA0CB">Best Project / Star Badge</text>
+ <text x="1049" y="560" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#DABDFD">02 / Tech &amp; Tools</text>
+ <g font-family="Arial,Helvetica,sans-serif" font-size="17" text-anchor="middle" fill="#E2D4F8">
+  <rect x="30" y="588" width="105" height="42" rx="12" fill="#332747"/><text x="82" y="615">Java</text>
+  <rect x="147" y="588" width="105" height="42" rx="12" fill="#332747"/><text x="199" y="615">SQL</text>
+  <rect x="264" y="588" width="130" height="42" rx="12" fill="#332747"/><text x="329" y="615">Angular</text>
+  <rect x="406" y="588" width="130" height="42" rx="12" fill="#332747"/><text x="471" y="615">Power BI</text>
+  <rect x="548" y="588" width="186" height="42" rx="12" fill="#332747"/><text x="641" y="615">Power Automate</text>
+  <rect x="746" y="588" width="96" height="42" rx="12" fill="#332747"/><text x="794" y="615">Git</text>
+  <rect x="854" y="588" width="112" height="42" rx="12" fill="#332747"/><text x="910" y="615">Figma</text>
+  <rect x="978" y="588" width="94" height="42" rx="12" fill="#332747"/><text x="1025" y="615">HTML</text>
+ </g>
+ <text x="550" y="665" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#9983B9">SOFT PURPLE  /  DARK MODE</text>
+</svg>
