@@ -1,75 +1,125 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:cba6f7&height=200&section=header&text=Ghadi%20Algethami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Creative%20Learner%20%7C%20Building%20with%20Code&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30204F,50:7856A8,100:C4B5FD&height=190&section=header&text=Ghadi%20Algethami&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20AI%20%7C%20Automation&descAlignY=55&descSize=17" width="100%"/>
 
-# Hi, I'm Ghadi 💜
+### Hi there, I'm Ghadi! 💜
 
-### Software Developer | Lifelong Learner | Building elegant solutions with code
+**Software Engineering Student @ University of Jeddah**
+
+Exploring the intersection of software development, automation, and artificial intelligence.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7856A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadi-algethami-593a67378)
+[![GitHub](https://img.shields.io/badge/GitHub-9F86C0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghadialgethami)
 
 </div>
 
 ---
 
-## 💜 About Me
+### ✦ About Me
 
-- 🎓 Passionate about technology and software development  
-- 💻 I enjoy building projects and improving my coding skills  
-- 🌱 Currently learning and growing through real projects  
-- ✨ Interested in clean design, problem solving, and creative development  
+I'm a **Software Engineering student at the University of Jeddah**, with hands-on experience in application development, workflow automation, and data visualization.
 
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-a855f7?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-cba6f7?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-8b5cf6?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- 🎓 Pursuing a B.Sc. in Software Engineering | Class of 2027
+- 💼 Former COOP Trainee at **Saudi Air Navigation Services (SANS)**
+- 🤖 Pursuing the **AI Specialization at KAUST Academy**
+- 💜 Automation Team Member at **GDG On Campus | UJ**
+- 🌱 Interested in software engineering, AI, and automation
 
 ---
 
-## 🌸 Featured Projects
+### ✦ Experience & Community
+
+**💼 Saudi Air Navigation Services (SANS)**  
+*Software Engineering COOP Trainee | Jun – Aug 2026*
+
+- Supported workflow automation using Power Automate
+- Contributed to Angular application development
+- Worked on SharePoint enhancements
+- Developed dashboards and visualizations using Power BI
+
+**🤖 KAUST Academy**  
+*Artificial Intelligence Specialization | Nov 2026 – Present*
+
+**💜 Google Developer Groups On Campus | UJ**  
+*Automation Team Member | Sep 2026 – Present*
+
+---
+
+### ✦ Technologies & Tools
 
 <div align="center">
 
-[![Ghadi Resume](https://img.shields.io/badge/Ghadi%20Resume-7c3aed?style=for-the-badge)](https://github.com/ghadialgethami/Ghadi-Resume)
-[![CLI ToDo](https://img.shields.io/badge/CLI%20ToDo-a855f7?style=for-the-badge)](https://github.com/ghadialgethami/CLI-ToDo_TestingProject)
-[![GitHub API](https://img.shields.io/badge/GitHub%20API-cba6f7?style=for-the-badge)](https://github.com/ghadialgethami/GitHubAPI)
-[![Code Translations](https://img.shields.io/badge/Code%20Translations-8b5cf6?style=for-the-badge)](https://github.com/ghadialgethami/Code_Translations)
+**Programming & Web**
+
+![Java](https://img.shields.io/badge/Java-7856A8?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-9F86C0?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-7856A8?style=flat-square)
+![C++](https://img.shields.io/badge/C++-9F86C0?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-7856A8?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-9F86C0?style=flat-square)
+
+**Frameworks & Platforms**
+
+![Angular](https://img.shields.io/badge/Angular-7856A8?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-9F86C0?style=flat-square)
+![Power Automate](https://img.shields.io/badge/Power_Automate-7856A8?style=flat-square)
+![SharePoint](https://img.shields.io/badge/SharePoint-9F86C0?style=flat-square)
+
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-7856A8?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-9F86C0?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-7856A8?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-9F86C0?style=flat-square)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### ✦ Selected Projects
+
+**🚦 Smart Traffic Light Control System**  
+An IoT-based traffic management concept using sensor-driven logic to adapt traffic signal timing based on congestion.
+
+**🗓️ Task Management System**  
+A Java application built using object-oriented programming principles for creating, updating, and tracking tasks.
+
+**🏋️ Gym Management System**  
+A software design project featuring database schemas, ER diagrams, UML diagrams, and system requirements.
+
+---
+
+### ✦ Highlights
+
+🏆 **Best Project / Star Badge Award**  
+University of Jeddah — Software Testing & Verification, 2026
+
+🚀 **Hajj Hackathon**  
+Contributed to application ideation, functionality, and presentation.
+
+---
+
+### ✦ GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ghadialgethami&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api?username=ghadialgethami&show_icons=true&bg_color=0D1117&title_color=C4B5FD&text_color=DDD6FE&icon_color=A78BFA&hide_border=true" height="165"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghadialgethami&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img src="https://streak-stats.demolab.com?user=ghadialgethami&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghadialgethami&layout=compact&bg_color=0D1117&title_color=C4B5FD&text_color=DDD6FE&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghadialgethami)
+### ✦ Let's Connect
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-7856A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadi-algethami-593a67378)
 
----
+*Learning, building, and growing — one project at a time.* 💜
 
-<div align="center">
-
-### 💫 “Keep learning, keep building, keep glowing.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:7856A8,100:30204F&height=100&section=footer" width="100%"/>
 
 </div>
